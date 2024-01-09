@@ -25,5 +25,5 @@ SWE @ Cloudflare, Studied at University of Toronto.  I am fuelling a passion for
 🧑🏻‍💻 SWE Intern at [Sagen](https://www.sagen.ca/)</br>
 
 ### Interests
-- Currently working on a date generator as my girlfriend is getting bored.
-- Looking to contribute more to open source (K8s I'm looking at you / Docker why are you so hard to build)
+- Currently working on a date generator as I am running out of ideas
+- Looking to contribute more to open source
